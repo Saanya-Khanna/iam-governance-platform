@@ -1,0 +1,110 @@
+{
+  "Administration": {
+    "groups": [
+      "corp-basic",
+      "admin-business-access"
+    ]
+  },
+
+  "Content / Media": {
+    "groups": [
+      "corp-basic",
+      "content-access"
+    ]
+  },
+
+  "Design / Creative": {
+    "groups": [
+      "corp-basic",
+      "creative-tools-access"
+    ]
+  },
+
+  "Education": {
+    "groups": [
+      "corp-basic",
+      "education-access"
+    ]
+  },
+
+  "Engineering / IT": {
+    "groups": [
+      "corp-basic",
+      "vpn-access",
+      "engineering-access"
+    ]
+  },
+
+  "Finance / Accounting": {
+    "groups": [
+      "corp-basic",
+      "vpn-access",
+      "finance-read"
+    ]
+  },
+
+  "HR / People": {
+    "groups": [
+      "corp-basic",
+      "vpn-access",
+      "hr-read"
+    ]
+  },
+
+  "Healthcare": {
+    "groups": [
+      "corp-basic",
+      "healthcare-access"
+    ]
+  },
+
+  "Legal / Compliance": {
+    "groups": [
+      "corp-basic",
+      "legal-compliance-access"
+    ]
+  },
+
+  "Operations": {
+    "groups": [
+      "corp-basic",
+      "vpn-access",
+      "operations-access"
+    ]
+  },
+
+  "Other / Specialized": {
+    "groups": [
+      "corp-basic"
+    ]
+  },
+
+  "Procurement / Supply Chain": {
+    "groups": [
+      "corp-basic",
+      "vpn-access",
+      "procurement-access"
+    ]
+  },
+
+  "Public / Community Services": {
+    "groups": [
+      "corp-basic",
+      "public-services-access"
+    ]
+  },
+
+  "Sales / Marketing": {
+    "groups": [
+      "corp-basic",
+      "sales-marketing-access"
+    ]
+  },
+
+  "Science / Research": {
+    "groups": [
+      "corp-basic",
+      "research-access"
+    ]
+  }
+}

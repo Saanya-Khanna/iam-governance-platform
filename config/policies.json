@@ -1,0 +1,29 @@
+{
+    "restrictedGroups": [
+      {
+        "group": "finance-admin",
+        "automaticAssignment": false,
+        "reason": "Privileged Finance access requires approval."
+      },
+      {
+        "group": "hr-admin",
+        "automaticAssignment": false,
+        "reason": "Privileged HR access requires approval."
+      },
+      {
+        "group": "security-admin",
+        "automaticAssignment": false,
+        "reason": "Security administration requires approval."
+      },
+      {
+        "group": "user-admin",
+        "automaticAssignment": false,
+        "reason": "Identity administration requires approval."
+      },
+      {
+        "group": "production-admin",
+        "automaticAssignment": false,
+        "reason": "Production administration requires approval."
+      }
+    ]
+  }

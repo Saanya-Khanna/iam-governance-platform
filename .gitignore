@@ -1,0 +1,15 @@
+# Secrets
+config/secrets.json
+.env
+.env.*
+*.secret
+
+# Generated audit data
+logs/
+reports/
+
+# macOS
+.DS_Store
+
+# PowerShell / editor
+.vscode/

@@ -1,0 +1,24 @@
+{
+    "conflicts": [
+      {
+        "groupA": "accounts-payable-create",
+        "groupB": "payment-approve",
+        "reason": "A user should not both create payable transactions and approve payments."
+      },
+      {
+        "groupA": "payroll-prepare",
+        "groupB": "payroll-approve",
+        "reason": "Payroll preparation and payroll approval must be separated."
+      },
+      {
+        "groupA": "identity-admin",
+        "groupB": "access-review-approver",
+        "reason": "Identity administrators should not approve their own access governance decisions."
+      },
+      {
+        "groupA": "production-deploy",
+        "groupB": "production-change-approve",
+        "reason": "Production deployment and change approval should be separated."
+      }
+    ]
+  }

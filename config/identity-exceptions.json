@@ -1,0 +1,16 @@
+{
+    "exceptions": [
+      {
+        "email": "jane.doe@example.com",
+        "identityType": "TEST_ACCOUNT",
+        "reason": "Okta tenant test identity.",
+        "approved": true
+      },
+      {
+        "email": "iam.admin@example.com",
+        "identityType": "ADMIN_ACCOUNT",
+        "reason": "Okta tenant administrator account.",
+        "approved": true
+      }
+    ]
+  }
